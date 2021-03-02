@@ -10,7 +10,7 @@ well lets get down and see what how to do the job.<br>
 </p>
 <br>
 
-### Things you need
+## Things you need
 <p>
 1 - ESP8266 WEMOS 32M <br>
 2 - micro usb cable <br>
@@ -18,4 +18,4 @@ well lets get down and see what how to do the job.<br>
 3 - a smart phone with blynk app installed on it <br>
 </p>
 
-### 1 - Setup things on Arduino IDE
+## 1 - Setup things on Arduino IDE
