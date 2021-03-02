@@ -2,7 +2,7 @@
 ### ESP8266 WEMOS 32M
 
 <p>
-<h3>Introduction</h3>  
+<h2>Introduction</h2>  
 Well, lets say this model is one of NodeMCUs and it is pretty good for IoT things and project.<br>
 This model can be kind of hard to figure out how to set it up and updload your code on it.<br>
 For me, as I am a lover of these kind MCUs board and IoT things, it took me to find clibs in russian 
