@@ -14,7 +14,8 @@ well lets get down and see what how to do the job.<br>
 <p>
 1 - ESP8266 WEMOS 32M <br>
 2 - micro usb cable <br>
-4 - Arduino IDE installed on your PC <b>
+4 - Arduino IDE installed on your PC <br>
 3 - a smart phone with blynk app installed on it <br>
 </p>
 
+### 1 - Setup things on Arduino IDE
