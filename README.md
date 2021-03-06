@@ -7,7 +7,7 @@ Well, lets say this model is one of NodeMCUs and it is pretty good for IoT thing
 This model can be kind of hard to figure out how to set it up and updload your code on it.<br>
 For me, as I am a lover of these kind MCUs board and IoT things, it took me to find clibs in russian 
 to figure how to deal with it :))))<br>
-well lets get down and see what how to do the job.<br>
+well lets get down and see how to do the job.<br>
 </p>
 <br>
 
