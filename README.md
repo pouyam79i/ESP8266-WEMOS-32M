@@ -42,9 +42,9 @@ Before compiling and uploading your code you must do a few things here: <br>
 2 - your main configs:<br>
   builtin led: 2<br>
   Upload speed: 115200 <br>
-  CPU Frequency: 80MHz
-  Flash size: 4MB (FS:2MB OTA:~1019KB) 
-3 - make sure you have installed the Board driver
+  CPU Frequency: 80MHz<br>
+  Flash size: 4MB (FS:2MB OTA:~1019KB) <br>
+3 - make sure you have installed the Board driver<br>
   it is ch340g driver <br>
   easily download it from internet <br>
   after the set the port to that and then upload your code <br>
